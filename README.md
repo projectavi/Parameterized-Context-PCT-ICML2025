@@ -1,5 +1,5 @@
-# CoT-Acceleration-2210
-Course project for CSC2210 on CoT Acceleration in LLM's using Auxiliary Networks
+# Parameterized-Context
+Code for the ICML2025 Workshop on Test-Time Adaptation: Putting Adaptation to the Test (PAT) submission "PCT: Accelerating Chain-of-Thought and Context-Driven Inference in LLMs"
 
 ```
 pip install torch --index-url https://download.pytorch.org/whl/cu118
