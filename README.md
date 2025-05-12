@@ -1,3 +1,10 @@
-# Parameterized-Context (PCT)
+# CoT-Acceleration-2210
+Course project for CSC2210 on CoT Acceleration in LLM's using Auxiliary Networks
 
-This repository contains the code for the ICML 2025 Workshop on Test-Time Adaptation: Putting Updates to the Test! (PUT): "PCT: Accelerating Chain-of-Thought and Context-Driven Inference in LLMs".
+```
+pip install torch --index-url https://download.pytorch.org/whl/cu118
+pip install -r requirements.txt
+git clone https://github.com/huggingface/transformers.git
+cd transformers
+pip install -e .
+```
