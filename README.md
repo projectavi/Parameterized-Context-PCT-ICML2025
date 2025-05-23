@@ -1,5 +1,5 @@
-# Parameterized-Context
-Code for the ICML2025 Workshop on Test-Time Adaptation: Putting Adaptation to the Test (PAT) submission "PCT: Accelerating Chain-of-Thought and Context-Driven Inference in LLMs"
+# Parameterizing-Context-Clues
+Code for the ICML2025 Workshop on Test-Time Adaptation: Putting Adaptation to the Test (PAT) submission "PCC: Accelerating Chain-of-Thought and Context-Driven Inference in LLMs"
 
 ```
 pip install torch --index-url https://download.pytorch.org/whl/cu118
